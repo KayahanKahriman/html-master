@@ -1,0 +1,23 @@
+.cover-top {
+  @include is-magic(cover,top);
+}
+
+.cover-center {
+  @include is-magic(cover,center);
+}
+
+.cover-bottom {
+  @include is-magic(cover,bottom);
+}
+
+.contain-top {
+  @include is-magic(contain,top);
+}
+
+.contain-center {
+  @include is-magic(contain,center);
+}
+
+.contain-bottom {
+  @include is-magic(contain,bottom);
+}
