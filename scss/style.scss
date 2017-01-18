@@ -1,47 +1,5 @@
 @import 'main';
 
-header {
-  padding: 1em 0;
-
-  .search-form {
-    position: relative;
-    top: .5em;
-
-    input[type="text"] {
-      width: 100%;
-      padding: .5em;
-      border: 1px solid rgba(0,0,0,.1);
-    }
-
-    input[type="submit"] {
-      font-family: 'FontAwesome';
-      position: absolute;
-      right: 0;
-      top: 0;
-      background: $main-color;
-      border: 0;
-      color: $white;
-      height: 100%;
-      width: 3em;
-    }
-  }
-
-  .shopping-cart {
-    position: relative;
-
-    span {
-      position: absolute;
-      border-radius: 50%;
-      background: $main-color;
-      color: $white;
-      text-align: center;
-      border: 3px solid #fff;
-      line-height: 1.5;
-    }
-
-  }
-}
-
 /*------------------------------------*\
     RESPONSIVE
 \*------------------------------------*/
@@ -65,39 +23,6 @@ header {
 
   .top-margin-xs {
     margin-top: 1.5em;
-  }
-
-  .logo {
-    width: 7em;
-    margin: 0 auto;
-
-    img {
-      width: 100%;
-    }
-  }
-
-  .mobile-top-right-section {
-    position: absolute;
-    top: -7em;
-    right: 1.7em;
-  }
-
-  .shopping-cart {
-
-    i {
-      font-size: 1.5em;
-    }
-
-    span {
-      top: -1em;
-      right: -1em;
-      width: 2em;
-      height: 2em;
-    }
-  }
-
-  .main-slider {
-    height: 300px;
   }
 
   .nav-panel {
@@ -227,38 +152,6 @@ header {
     margin-top: 1.5em;
   }
 
-  .logo {
-    width: auto;
-    margin: inherit;
-
-    img {
-      width: auto;
-    }
-  }
-
-  .mobile-top-right-section {
-    position: relative;
-    top: .7em;
-    right: 0;
-  }
-
-  .shopping-cart {
-
-    i {
-      font-size: 2em;
-    }
-
-    span {
-      top: 1em;
-      right: -1em;
-      width: 2em;
-      height: 2em;
-    }
-  }
-
-  .main-slider {
-    height: 580px;
-  }
 }
 
 @media only screen and (min-width: 1140px) {
