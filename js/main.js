@@ -1,7 +1,5 @@
 jQuery(document).ready(function () {
 
-    var siteAdresi = 'http://' + location.host;
-
     //Resposive Nav
     jQuery('.nav-panel').mmenu({
         extensions: [
@@ -13,7 +11,7 @@ jQuery(document).ready(function () {
         navbars: [{
             height: 2,
             content: [
-                '<a class="nav-panel-logo" href="/">' + '<img src="' + siteAdresi + '/images/logo.png"' + '</a>'
+                '<a class="nav-panel-logo" href="/"><img src="../images/logo.png"></a>'
             ]
         }, true]
     });
