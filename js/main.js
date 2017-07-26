@@ -15,23 +15,10 @@ jQuery(document).ready(function () {
             ]
         }, true]
     });
-    var API = $('.nav-panel').data('mmenu');
+    var API = jQuery('.nav-panel').data('mmenu');
 
     jQuery('.toggle-nav').click(function () {
         API.open();
-    });
-
-    //Main Slider
-    jQuery('.main-slider').owlCarousel({
-        animateOut: 'fadeOut',
-        animateIn: 'fadeIn',
-        loop: true,
-        margin: 0,
-        nav: true,
-        items: 1,
-        autoplay: true,
-        autoplayTimeout: 3000,
-        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>']
     });
 
     //Product Slider
@@ -84,7 +71,7 @@ jQuery(document).ready(function () {
     });
 
     //Mega Menü
-    $('nav ul ul').filter(function () {
+    jQuery('nav ul ul').filter(function () {
         if ($(this).children("li").length > 5) {
             $(this).addClass('mega-menu');
         } else {
@@ -92,6 +79,5 @@ jQuery(document).ready(function () {
             $(this).addClass('single-menu');
         }
     });
-
 
 });
