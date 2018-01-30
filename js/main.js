@@ -7,13 +7,7 @@ jQuery(document).ready(function () {
             "effect-listitems-slide",
             "effect-menu-zoom",
             "effect-panels-zoom"
-        ],
-        navbars: [{
-            height: 2,
-            content: [
-                '<a class="nav-panel-logo" href="/"><img src="../images/logo.png"></a>'
-            ]
-        }, true]
+        ]
     });
     var API = jQuery('.nav-panel').data('mmenu');
 
