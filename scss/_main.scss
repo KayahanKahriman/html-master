@@ -70,7 +70,7 @@ html, body {
 body {
   font-size: 14px;
   color: #444;
-  font-family: 'Open Sans';
+  font-family: $open-sans;
   font-weight: 400;
 }
 
@@ -80,5 +80,5 @@ body {
   top: .2em;
   left: .5em;
   z-index: 9999;
-  color: $main-color;
+  color: $primary-color;
 }
