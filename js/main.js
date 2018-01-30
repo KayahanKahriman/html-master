@@ -4,9 +4,7 @@ jQuery(document).ready(function () {
     jQuery('.nav-panel').mmenu({
         extensions: [
             "effect-panels-slide-100",
-            "effect-listitems-slide",
-            "effect-menu-zoom",
-            "effect-panels-zoom"
+            "effect-listitems-slide"
         ]
     });
     var API = jQuery('.nav-panel').data('mmenu');
