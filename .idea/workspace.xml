@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_font-awesome.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_animated.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_bordered-pulled.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_core.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_fixed-width.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_larger.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_list.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_path.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_rotated-flipped.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_stacked.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/fontawesome/font-awesome.css.map" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/scss/_main.scss" afterPath="$PROJECT_DIR$/scss/_main.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_vars.scss" afterPath="$PROJECT_DIR$/scss/_vars.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="$PROJECT_DIR$/scss/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,22 +54,42 @@
       <file leaf-file-name="_main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+            <state relative-caret-position="116">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding>
-                <element signature="e#263#280#0" expanded="false" />
-                <element signature="e#303#494#0" expanded="false" />
-                <element signature="e#518#555#0" expanded="false" />
-                <element signature="e#567#585#0" expanded="false" />
-                <element signature="e#591#605#0" expanded="false" />
-                <element signature="e#623#754#0" expanded="false" />
-                <element signature="e#681#751#0" expanded="false" />
-                <element signature="e#758#801#0" expanded="false" />
-                <element signature="e#820#912#0" expanded="false" />
-                <element signature="e#925#964#0" expanded="false" />
-                <element signature="e#971#1055#0" expanded="false" />
-                <element signature="e#1069#1181#0" expanded="false" />
+                <element signature="e#287#304#0" expanded="false" />
+                <element signature="e#327#518#0" expanded="false" />
+                <element signature="e#542#579#0" expanded="false" />
+                <element signature="e#591#609#0" expanded="false" />
+                <element signature="e#615#629#0" expanded="false" />
+                <element signature="e#647#778#0" expanded="false" />
+                <element signature="e#705#775#0" expanded="false" />
+                <element signature="e#782#825#0" expanded="false" />
+                <element signature="e#844#936#0" expanded="false" />
+                <element signature="e#949#988#0" expanded="false" />
+                <element signature="e#995#1079#0" expanded="false" />
+                <element signature="e#1093#1205#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_core.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/fontawesome/_core.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_font-awesome.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_font-awesome.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,6 +179,11 @@
             <path>
               <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -158,6 +204,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="Z:\Server\html-master-wp\scss" />
+      <recent name="Z:\Server\html-master-wp\fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,7 +292,7 @@
       <workItem from="1484738605971" duration="3202000" />
       <workItem from="1500985609671" duration="2889000" />
       <workItem from="1501069568908" duration="25000" />
-      <workItem from="1517313674622" duration="856000" />
+      <workItem from="1517313674622" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -265,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6972000" />
+    <option name="totallyTimeSpent" value="7118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -473,23 +520,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_core.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_font-awesome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+        <state relative-caret-position="116">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
-            <element signature="e#263#280#0" expanded="false" />
-            <element signature="e#303#494#0" expanded="false" />
-            <element signature="e#518#555#0" expanded="false" />
-            <element signature="e#567#585#0" expanded="false" />
-            <element signature="e#591#605#0" expanded="false" />
-            <element signature="e#623#754#0" expanded="false" />
-            <element signature="e#681#751#0" expanded="false" />
-            <element signature="e#758#801#0" expanded="false" />
-            <element signature="e#820#912#0" expanded="false" />
-            <element signature="e#925#964#0" expanded="false" />
-            <element signature="e#971#1055#0" expanded="false" />
-            <element signature="e#1069#1181#0" expanded="false" />
+            <element signature="e#287#304#0" expanded="false" />
+            <element signature="e#327#518#0" expanded="false" />
+            <element signature="e#542#579#0" expanded="false" />
+            <element signature="e#591#609#0" expanded="false" />
+            <element signature="e#615#629#0" expanded="false" />
+            <element signature="e#647#778#0" expanded="false" />
+            <element signature="e#705#775#0" expanded="false" />
+            <element signature="e#782#825#0" expanded="false" />
+            <element signature="e#844#936#0" expanded="false" />
+            <element signature="e#949#988#0" expanded="false" />
+            <element signature="e#995#1079#0" expanded="false" />
+            <element signature="e#1093#1205#0" expanded="false" />
           </folding>
         </state>
       </provider>
