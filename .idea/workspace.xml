@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_alerts.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_badges.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_breadcrumbs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_button-groups.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_carousel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_close.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_code.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_component-animations.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_dropdowns.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_glyphicons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_input-groups.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_labels.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_media.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_modals.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_navs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_normalize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_pager.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_panels.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_popovers.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_print.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_progress-bars.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_responsive-embed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_responsive-utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_scaffolding.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_thumbnails.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_type.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_wells.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_alerts.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_center-block.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_hide-text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_labels.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-vertical-align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_opacity.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_panels.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_progress-bar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-filter.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_responsive-visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_tab-focus.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-overflow.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_vendor-prefixes.scss" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_main.scss" afterPath="$PROJECT_DIR$/scss/_main.scss" />
-    </list>
+    <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +209,7 @@
       <workItem from="1484738605971" duration="3202000" />
       <workItem from="1500985609671" duration="2889000" />
       <workItem from="1501069568908" duration="25000" />
-      <workItem from="1517313674622" duration="412000" />
+      <workItem from="1517313674622" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -304,7 +229,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6528000" />
+    <option name="totallyTimeSpent" value="6727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
