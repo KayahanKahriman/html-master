@@ -2,117 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_close.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_close.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_code.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_code.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_forms.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_forms.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_grid.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_grid.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_jumbotron.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_jumbotron.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_list-group.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_list-group.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_media.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_media.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_mixins.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_mixins.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_navbar.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_navbar.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_pagination.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_pagination.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_print.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_print.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tables.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tables.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tooltip.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tooltip.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_type.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_type.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_utilities.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_utilities.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_variables.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_variables.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a9dc999fff0367c42beef92a735aeed0344f0646/_bootstrap.scssc" afterPath="$PROJECT_DIR$/.sass-cache/a9dc999fff0367c42beef92a735aeed0344f0646/_bootstrap.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_background-variant.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_background-variant.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_border-radius.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_border-radius.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_buttons.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_buttons.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_clearfix.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_clearfix.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_forms.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_forms.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_gradients.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_gradients.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_grid-framework.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_grid-framework.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_grid.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_grid.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_image.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_image.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_list-group.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_list-group.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_nav-divider.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_nav-divider.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_pagination.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_pagination.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_reset-text.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_reset-text.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_resize.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_resize.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_size.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_size.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_table-row.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_table-row.scssc" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_text-emphasis.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_text-emphasis.scssc" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
-      <change beforePath="$PROJECT_DIR$/scss/_bootstrap.scss" afterPath="$PROJECT_DIR$/scss/_bootstrap.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/_font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_badges.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_breadcrumbs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_button-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_carousel.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_carousel.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_close.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_close.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_code.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_component-animations.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_dropdowns.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_glyphicons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_input-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_media.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_media.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_modals.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_navs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_normalize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_pager.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_pagination.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_pagination.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_popovers.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_print.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_progress-bars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_responsive-embed.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_responsive-utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_scaffolding.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_theme.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_thumbnails.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_type.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_type.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_wells.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_center-block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_hide-text.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_opacity.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_progress-bar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-filter.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_tab-focus.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-overflow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="258">
+              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -300,6 +190,11 @@
             <path>
               <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -319,6 +214,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Server\html-master-wp\js" />
       <recent name="Z:\Server\html-master-wp\scss\bootstrap" />
       <recent name="Z:\Server\html-master-wp\scss" />
       <recent name="Z:\Server\html-master-wp\fonts" />
@@ -411,7 +307,7 @@
       <workItem from="1501069568908" duration="25000" />
       <workItem from="1517313674622" duration="1384000" />
       <workItem from="1517476415282" duration="363000" />
-      <workItem from="1517480560407" duration="794000" />
+      <workItem from="1517480560407" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -431,10 +327,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8657000" />
+    <option name="totallyTimeSpent" value="8907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -442,7 +339,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13272922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13272922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -814,10 +711,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="258">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
