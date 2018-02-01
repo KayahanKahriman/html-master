@@ -2,52 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_breadcrumb.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_button-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_card.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_custom-forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_dropdown.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_functions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_images.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_input-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_modal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_nav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_popover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_progress.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_root.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/_transitions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap-grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap-reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_box-shadow.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_breakpoints.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_caret.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_hover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_lists.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_navbar-align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-hide.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_transition.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_background.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_borders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_display.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_flex.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_position.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_screenreaders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_sizing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_spacing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_visibility.scss" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" />
@@ -118,7 +72,7 @@
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_popovers.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_print.scss" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_progress-bars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_responsive-embed.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_embed.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_responsive-embed.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_responsive-utilities.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_scaffolding.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" />
@@ -157,7 +111,7 @@
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_tab-focus.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-overflow.scss" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-truncate.scss" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-overflow.scss" afterPath="" />
       <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -348,12 +302,6 @@
               <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -463,7 +411,7 @@
       <workItem from="1501069568908" duration="25000" />
       <workItem from="1517313674622" duration="1384000" />
       <workItem from="1517476415282" duration="363000" />
-      <workItem from="1517480560407" duration="753000" />
+      <workItem from="1517480560407" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -483,11 +431,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8616000" />
+    <option name="totallyTimeSpent" value="8657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -495,7 +442,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13272922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13272922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
