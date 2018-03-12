@@ -4,7 +4,6 @@
 @import 'icofont';
 @import 'colors';
 @import 'img';
-@import '../css/owl.carousel.css';
 @import '../css/jquery.mmenu.all.css';
 
 @include import-font('Open+Sans','400,700');
@@ -69,16 +68,16 @@ html, body {
 
 body {
   font-size: 14px;
-  color: #444;
-  font-family: $open-sans;
+  color: $text-color;
+  font-family: $default-font;
   font-weight: 400;
 }
 
 .toggle-nav {
   position: absolute;
-  font-size: 2em;
-  top: .2em;
-  left: .5em;
+  font-size: 20px;
+  top: 15px;
+  left: 15px;
   z-index: 9999;
   color: $primary-color;
 }

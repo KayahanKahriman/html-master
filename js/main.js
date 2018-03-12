@@ -13,25 +13,6 @@ jQuery(document).ready(function () {
         API.open();
     });
 
-    //Product Slider
-    jQuery('.product-carousel').owlCarousel({
-        loop: true,
-        margin: 0,
-        navText: ['<i class="fa fa-angle-double-left"></i>', '<i class="fa fa-angle-double-right"></i>'],
-        nav: true,
-        responsive: {
-            0: {
-                items: 1
-            },
-            600: {
-                items: 3
-            },
-            1000: {
-                items: 4
-            }
-        }
-    });
-
     //SVG Color
     jQuery('img.svg').each(function () {
         var $img = jQuery(this);
