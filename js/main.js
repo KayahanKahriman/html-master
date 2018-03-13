@@ -15,13 +15,13 @@ jQuery(document).ready(function () {
     });
 
     //Resposive Nav
-    jQuery('.nav-panel').mmenu({
+    jQuery('.mobile-nav').mmenu({
         extensions: [
             "effect-panels-slide-100",
             "effect-listitems-slide"
         ]
     });
-    var API = jQuery('.nav-panel').data('mmenu');
+    var API = jQuery('.mobile-nav').data('mmenu');
 
     jQuery('.toggle-nav').click(function () {
         API.open();
