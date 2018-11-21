@@ -3,18 +3,52 @@
   <component name="ChangeListManager">
     <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_brands.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_regular.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_shims.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_solid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_v4-shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_alert.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_alert.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_badge.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_badge.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_breadcrumb.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_breadcrumb.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_button-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_button-group.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_buttons.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_card.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_card.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_carousel.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_close.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_close.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_code.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_code.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_custom-forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_custom-forms.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_dropdown.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_dropdown.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_forms.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_functions.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_functions.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_input-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_input-group.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_mixins.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_mixins.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_modal.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_modal.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_navbar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_navbar.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_pagination.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_pagination.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_print.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_print.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_progress.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_progress.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_reboot.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_reboot.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_tables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_transitions.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_transitions.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_utilities.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_utilities.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/_variables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap-grid.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap-grid.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap-reboot.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap-reboot.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/21d368a88d33441e073a1a362929c2dc656922ef/bootstrap.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a9dc999fff0367c42beef92a735aeed0344f0646/_bootstrap.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/a9dc999fff0367c42beef92a735aeed0344f0646/_bootstrap.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_breakpoints.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_breakpoints.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_caret.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_caret.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_forms.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_gradients.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_gradients.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_hover.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_hover.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_list-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_list-group.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_nav-divider.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_nav-divider.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_screen-reader.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_screen-reader.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_text-hide.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_text-hide.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_transition.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/e1c1b7a9a9ffa90d98aa31fff05539dbca632221/_transition.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_flex.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_flex.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_position.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_position.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_text.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/f845cb8217df6377b504354efd1f33127ec5152a/_text.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_bootstrap.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/fontawesome/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +64,59 @@
     <session id="592543763">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scss" value="3" />
+          <entry key="html" value="45" />
+          <entry key="scss" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="SCSS" value="3" />
+          <entry key="HTML" value="45" />
+          <entry key="SCSS" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="scss" value="5" />
+          <entry key="css" value="1" />
+          <entry key="scss" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="SCSS" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-339743966">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scss" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="SCSS" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scss" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="SCSS" value="5" />
         </counts>
@@ -61,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+            <state relative-caret-position="261">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -93,25 +160,43 @@
         <entry file="file://$PROJECT_DIR$/scss/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_vars.scss">
+        <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="29">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/fontawesome/_brands.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/fontawesome/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_bootstrap.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -132,13 +217,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scss/_bootstrap.scss" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/_vars.scss" />
-        <option value="$PROJECT_DIR$/scss/_main.scss" />
         <option value="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" />
+        <option value="$PROJECT_DIR$/scss/_main.scss" />
+        <option value="$PROJECT_DIR$/scss/_bootstrap.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/fontawesome/_variables.scss" />
       </list>
     </option>
   </component>
@@ -177,29 +263,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="html-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="html-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-master" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="462c0819:PsiDirectoryNode" />
+              <item name="html-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-master" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-master-wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-master-wp" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,11 +292,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Server\html-master-wp\scss\bootstrap" />
       <recent name="Z:\Server\html-master-wp\fonts" />
+      <recent name="Z:\Server\html-master-wp\scss\fontawesome" />
       <recent name="Z:\Server\html-master-wp\scss" />
       <recent name="Z:\Server\html-master-wp\css" />
-      <recent name="Z:\Server\html-master-wp\js" />
-      <recent name="Z:\Server\html-master-wp\scss\bootstrap" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,7 +343,8 @@
       <workItem from="1520941003145" duration="1330000" />
       <workItem from="1521182166659" duration="13000" />
       <workItem from="1521182295094" duration="62000" />
-      <workItem from="1542797737342" duration="1640000" />
+      <workItem from="1542797737342" duration="3348000" />
+      <workItem from="1542803508998" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -288,16 +364,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16369000" />
+    <option name="totallyTimeSpent" value="18261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32832617" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -307,9 +382,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32725322" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32725322" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3296582" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,23 +416,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css" />
     <entry file="file://$PROJECT_DIR$/scss/_font-awesome.scss" />
-    <entry file="file://$PROJECT_DIR$/scss/_icofont.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_icofont.scss" />
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -373,10 +437,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_icons.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_animated.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/_bootstrap-grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bootstrap/bootstrap.scss" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="261">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -398,15 +485,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_vars.scss">
+    <entry file="file://$PROJECT_DIR$/scss/_bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="319">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_icons.scss">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/scss/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -415,20 +506,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_animated.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_main.scss">
+    <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_brands.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
