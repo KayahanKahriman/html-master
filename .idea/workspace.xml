@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="" />
+    <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +56,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="js" value="1" />
           <entry key="scss" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JavaScript" value="1" />
           <entry key="SCSS" value="4" />
         </counts>
       </usages-collector>
@@ -79,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="57">
               <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -98,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="290">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -125,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/fontawesome/_brands.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="261">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -202,12 +206,12 @@
             <path>
               <item name="html-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-master" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,11 +229,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Server\html-master\js" />
       <recent name="Z:\Server\html-master-wp\scss\bootstrap" />
       <recent name="Z:\Server\html-master-wp\fonts" />
       <recent name="Z:\Server\html-master-wp\scss\fontawesome" />
       <recent name="Z:\Server\html-master-wp\scss" />
-      <recent name="Z:\Server\html-master-wp\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -277,7 +281,7 @@
       <workItem from="1521182166659" duration="13000" />
       <workItem from="1521182295094" duration="62000" />
       <workItem from="1542797737342" duration="3348000" />
-      <workItem from="1542803508998" duration="453000" />
+      <workItem from="1542803508998" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -297,13 +301,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18530000" />
+    <option name="totallyTimeSpent" value="19233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +319,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32725322" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32725322" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3296582" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -350,13 +354,6 @@
     <entry file="file://$PROJECT_DIR$/css/animate.css" />
     <entry file="file://$PROJECT_DIR$/scss/_font-awesome.scss" />
     <entry file="file://$PROJECT_DIR$/scss/_icofont.scss" />
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/swiper.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -393,28 +390,10 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -455,8 +434,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/fontawesome/_brands.scss">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
