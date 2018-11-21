@@ -2,121 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9bf592-ced0-4ebd-8971-e0288b6222da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kayahan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kayahan.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome/v4-shims.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome/v4-shims.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery.mmenu.all.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery.mmenu.all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/swiper.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icofont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icofont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icofont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icofont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icofont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mmenu.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.mmenu.all.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_fontawesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_icofont.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_img.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_img.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_bootstrap-grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_bootstrap-reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_close.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_code.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_custom-forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_popover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_progress.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_root.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_transitions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_type.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_float.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_navbar-align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_navbar-align.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_align.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_background.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_display.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_float.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_position.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fontawesome/v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_v4-shims.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swiper-slide.txt" beforeDir="false" afterPath="$PROJECT_DIR$/swiper-slide.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome/v4-shims.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_brands.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_regular.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_solid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_v4-shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fontawesome/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fontawesome/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,12 +36,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scss" value="1" />
+          <entry key="scss" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="SCSS" value="1" />
+          <entry key="SCSS" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scss" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="SCSS" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -152,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
+            <state>
               <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -180,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="87">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -220,6 +138,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/_vars.scss" />
         <option value="$PROJECT_DIR$/scss/_main.scss" />
+        <option value="$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss" />
       </list>
     </option>
   </component>
@@ -349,7 +268,7 @@
       <workItem from="1520941003145" duration="1330000" />
       <workItem from="1521182166659" duration="13000" />
       <workItem from="1521182295094" duration="62000" />
-      <workItem from="1542797737342" duration="1068000" />
+      <workItem from="1542797737342" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="İlk yükleme">
       <created>1484740166737</created>
@@ -369,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15797000" />
+    <option name="totallyTimeSpent" value="16369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -447,13 +366,6 @@
     <entry file="file://$PROJECT_DIR$/css/swiper.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/fontawesome/_core.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -463,7 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
+        <state>
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -493,10 +405,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_main.scss">
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_icons.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_fontawesome.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fontawesome/_animated.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_fontawesome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
