@@ -3,23 +3,10 @@
   @import url($url + $font-name + ":" + $font-weight + '&subset=latin,latin-ext');
 }
 
-@mixin transitions ($time) {
-  -webkit-transition: all $time ease-in;
-  -moz-transition: all $time ease-in;
-  -ms-transition: all $time ease-in;
-  -o-transition: all $time ease-in;
-  transition: all $time ease-in;
-}
-
-@mixin is-magic($object-fit, $object-position) {
-  width: 100%;
-  height: 100%;
-
-  img {
-      width: 100%;
-      height: 100%;
-      object-fit: $object-fit;
-      object-position: $object-position center;
-  }
-
+@mixin transitions ($property, $time, $ease) {
+  -webkit-transition: $property $time $ease;
+  -moz-transition: $property $time $ease;
+  -ms-transition: $property $time $ease;
+  -o-transition: $property $time $ease;
+  transition: $property $time $ease;
 }
