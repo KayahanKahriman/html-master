@@ -1,11 +1,11 @@
-@import 'vars';
-@import 'mixins';
-@import 'colors';
-@import 'img';
-@import '../css/jquery.mmenu.all.css';
-@import '../css/swiper.min.css';
+@import "vars";
+@import "mixins";
+@import "colors";
+@import "img";
+@import "../css/jquery.mmenu.all.css";
+@import "../css/swiper.min.css";
 
-@include import-font('Open+Sans','400,700');
+@include import-font("Open+Sans", "400,700");
 
 *:active,
 *:focus {
@@ -17,14 +17,15 @@
 *:before {
   margin: 0;
   padding: 0;
-  -moz-box-sizing:border-box;
-  box-sizing:border-box;
-  -webkit-font-smoothing:antialiased;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
-  text-rendering:optimizeLegibility;
+  text-rendering: optimizeLegibility;
 }
 
-.cf:after, .cf:before {
+.cf:after,
+.cf:before {
   display: table;
   content: " ";
 }
@@ -45,7 +46,6 @@
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-
 }
 
 a {
@@ -53,14 +53,17 @@ a {
   text-decoration: none;
 }
 
-a:hover, a:focus, a:active {
+a:hover,
+a:focus,
+a:active {
   text-decoration: none;
   outline: none;
   background-color: inherit;
   color: inherit;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   min-height: 100%;
 }
