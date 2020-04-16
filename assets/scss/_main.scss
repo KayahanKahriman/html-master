@@ -1,16 +1,8 @@
 @import "vars";
-@import "mixins";
 @import "colors";
 @import "img";
 @import "../css/jquery.mmenu.all.css";
 @import "../css/swiper.min.css";
-
-@include import-font("Open+Sans", "400,700");
-
-*:active,
-*:focus {
-  outline: 0;
-}
 
 *,
 *:after,
@@ -58,8 +50,6 @@ a:focus,
 a:active {
   text-decoration: none;
   outline: none;
-  background-color: inherit;
-  color: inherit;
 }
 
 html,
@@ -69,7 +59,7 @@ body {
 }
 
 body {
-  font-size: 14px;
+  font-size: 16px;
   color: $text-color;
   font-family: $default-font;
   font-weight: 400;
