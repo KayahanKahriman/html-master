@@ -1,0 +1,14 @@
+@mixin img($size, $alignment) {
+  width: 100%;
+  height: 100%;
+  object-fit: $size;
+  object-position: $alignment;
+}
+
+.img-cover {
+  @include img(cover, center center);
+}
+
+.img-contain {
+  @include img(contain, center center);
+}
