@@ -1,5 +1,7 @@
-$primary-color: red;
-$text-color: #444;
-$link-color: #444;
-$open-sans: 'Open Sans';
-$default-font: $open-sans;
+:root {
+  --mulish: "Mulish", sans-serif;
+  --playfair: "Playfair Display", serif;
+  --primary-color: #919f6e;
+  --text-color: #444;
+  --link-color: #444;
+}

@@ -1,9 +1,6 @@
 @import "./flex-grid/flexgrid";
 @import "vars";
-@import "colors";
-@import "img";
-@import "../css/jquery.mmenu.all.css";
-@import "../css/swiper.min.css";
+@import "https://unpkg.com/swiper/swiper-bundle.min.css";
 
 *,
 *:after,
@@ -11,22 +8,7 @@
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-}
-
-.cf:after,
-.cf:before {
-  display: table;
-  content: " ";
-}
-
-.cf:after {
-  clear: both;
-}
-
-.cf {
-  zoom: 1;
 }
 
 .row-no-padding {
@@ -40,7 +22,7 @@
 }
 
 a {
-  color: $link-color;
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -59,21 +41,7 @@ body {
 
 body {
   font-size: 16px;
-  color: $text-color;
-  font-family: $default-font;
+  color: var(--text-color);
+  font-family: var(--mulish);
   font-weight: 400;
-}
-
-.toggle-nav {
-  position: absolute;
-  font-size: 20px;
-  top: 15px;
-  left: 15px;
-  z-index: 9999;
-  color: $primary-color;
-}
-
-.swiper-container {
-  width: 100%;
-  height: 100%;
 }
